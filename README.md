@@ -19,10 +19,7 @@ Aqui neste **[link](https://www.figma.com/community/file/1263574581735209131)** 
 ## Deploy
 
 Para Acessa o projeto<br>
-[![Netlify](https://img.shields.io/badge/Deploy-000?style=for-the-badge&logo=netlify&logoColor=white)](https://timepomodoro.netlify.app)
+[![Netlify](https://img.shields.io/badge/Deploy-000?style=for-the-badge&logo=netlify&logoColor=white)](focus-time-v2.netlify.app)
 
-## Demonstração
-
-<img src='./assets/animated.gif' alt="Tela de demostração" width="100%" height="100%"> <br>
 
 - Aplicação feita em aula
