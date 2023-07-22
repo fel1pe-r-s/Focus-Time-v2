@@ -1,0 +1,24 @@
+{
+  "name": "focus-time-v2",
+  "version": "1.0.0",
+  "description": "Nesta aula, iremos desenvolver o \"Focus Timer\", um projeto de timer que utiliza ES6 modules, estados, variáveis, callback functions e um modo escuro / claro.",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "build": "echo This is a static template, there is no bundler or bundling involved!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesandbox-app/static-template.git"
+  },
+  "keywords": [],
+  "author": "Ives van Hoorne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codesandbox-app/static-template/issues"
+  },
+  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
