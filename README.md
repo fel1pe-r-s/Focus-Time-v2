@@ -19,7 +19,7 @@ Aqui neste **[link](https://www.figma.com/community/file/1263574581735209131)** 
 ## Deploy
 
 Para Acessa o projeto<br>
-[![Netlify](https://img.shields.io/badge/Deploy-000?style=for-the-badge&logo=netlify&logoColor=white)](focus-time-v2.netlify.app)
+[![Netlify](https://img.shields.io/badge/Deploy-000?style=for-the-badge&logo=netlify&logoColor=white)](https://focus-time-v2.netlify.app/)
 
 
 - Aplicação feita em aula
